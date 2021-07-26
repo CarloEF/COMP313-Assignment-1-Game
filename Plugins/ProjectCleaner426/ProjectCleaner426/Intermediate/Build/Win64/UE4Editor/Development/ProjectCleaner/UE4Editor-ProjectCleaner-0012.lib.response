@@ -1,0 +1,14 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-ProjectCleaner-0012.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\Carlo\Documents\Unreal Projects\MyProject\Intermediate\Build\Win64\MyProjectEditor\Development\UnrealEd\SharedPCH.UnrealEd.ShadowErrors.h.obj"
+"C:\Users\Carlo\Documents\Unreal Projects\MyProject\Plugins\ProjectCleaner426\ProjectCleaner426\Intermediate\Build\Win64\UE4Editor\Development\ProjectCleaner\Module.ProjectCleaner.cpp.obj"
+"C:\Users\Carlo\Documents\Unreal Projects\MyProject\Plugins\ProjectCleaner426\ProjectCleaner426\Intermediate\Build\Win64\UE4Editor\Development\ProjectCleaner\Module.ProjectCleaner.gen.cpp.obj"
+"C:\Users\Carlo\Documents\Unreal Projects\MyProject\Plugins\ProjectCleaner426\ProjectCleaner426\Intermediate\Build\Win64\UE4Editor\Development\ProjectCleaner\Default.rc2.res"
+/OUT:"C:\Users\Carlo\Documents\Unreal Projects\MyProject\Plugins\ProjectCleaner426\ProjectCleaner426\Intermediate\Build\Win64\UE4Editor\Development\ProjectCleaner\UE4Editor-ProjectCleaner-0012.lib"
+/INCLUDE:IMPLEMENT_MODULE_ProjectCleaner

@@ -1,0 +1,145 @@
+C:\Users\Carlo\Documents\Unreal Projects\MyProject\Plugins\ProjectCleaner426\ProjectCleaner426\Intermediate\Build\Win64\UE4Editor\Development\ProjectCleaner\Definitions.ProjectCleaner.h
+C:/Users/Carlo/Documents/Unreal Projects/MyProject/Plugins/ProjectCleaner426/ProjectCleaner426/Source/ProjectCleaner/Private/Core/ProjectCleanerManager.cpp
+C:\Users\Carlo\Documents\Unreal Projects\MyProject\Plugins\ProjectCleaner426\ProjectCleaner426\Source\ProjectCleaner\Public\Core/ProjectCleanerManager.h
+C:\Users\Carlo\Documents\Unreal Projects\MyProject\Plugins\ProjectCleaner426\ProjectCleaner426\Source\ProjectCleaner\Public\StructsContainer.h
+C:\Users\Carlo\Documents\Unreal Projects\MyProject\Plugins\ProjectCleaner426\ProjectCleaner426\Intermediate\Build\Win64\UE4Editor\Inc\ProjectCleaner\StructsContainer.generated.h
+C:\Users\Carlo\Documents\Unreal Projects\MyProject\Plugins\ProjectCleaner426\ProjectCleaner426\Source\ProjectCleaner\Public\Core/ProjectCleanerUtility.h
+C:\Users\Carlo\Documents\Unreal Projects\MyProject\Plugins\ProjectCleaner426\ProjectCleaner426\Source\ProjectCleaner\Public\UI/ProjectCleanerNotificationManager.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Slate\Public\Widgets/Notifications/SNotificationList.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\AssetRegistry\Public\AssetRegistryModule.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\AssetRegistry\Public\AssetRegistry/AssetRegistryModule.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\AssetRegistry\Public\AssetRegistry/IAssetRegistry.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\CoreUObject\Public\Misc/AssetRegistryInterface.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\AssetRegistry\IAssetRegistry.generated.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Core\Public\Misc/ScopedSlowTask.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Editor\UnrealEd\Classes\Settings/ContentBrowserSettings.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\UnrealEd\ContentBrowserSettings.generated.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Editor\ContentBrowser\Public\ContentBrowserModule.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Editor\ContentBrowser\Public\ContentBrowserDelegates.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Developer/AssetTools/Public/IAssetTypeActions.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Developer/Merge/Public/Merge.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Editor\UnrealEd\Classes\ThumbnailRendering/ThumbnailManager.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Editor\UnrealEd\Classes\ThumbnailRendering/ThumbnailRenderer.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\UnrealEd\ThumbnailRenderer.generated.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\UnrealEd\ThumbnailManager.generated.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Editor\ContentBrowserData\Public\ContentBrowserDataLegacyBridge.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Editor\ContentBrowserData\Public\ContentBrowserItemData.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Editor\ContentBrowserData\Public\ContentBrowserDataMenuContexts.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Editor\ContentBrowserData\Public\ContentBrowserItem.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\ContentBrowserData\ContentBrowserItem.generated.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Developer\CollectionManager\Public\CollectionManagerTypes.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Developer\SourceControl\Public\ISourceControlState.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\ContentBrowserData\ContentBrowserDataMenuContexts.generated.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\ContentBrowserData\ContentBrowserDataLegacyBridge.generated.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Editor\ContentBrowser\Public\IContentBrowserSingleton.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Developer/AssetTools/Public/AssetTypeCategories.h
+C:/Users/Carlo/Documents/Unreal Projects/MyProject/Plugins/ProjectCleaner426/ProjectCleaner426/Source/ProjectCleaner/Private/Core/ProjectCleanerUtility.cpp
+C:\Users\Carlo\Documents\Unreal Projects\MyProject\Plugins\ProjectCleaner426\ProjectCleaner426\Source\ProjectCleaner\Public\ProjectCleaner.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Editor\UnrealEd\Public\ObjectTools.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Editor\UnrealEd\Public\FileHelpers.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Editor\UnrealEd\Public\PackageTools.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\UnrealEd\PackageTools.generated.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Developer\SourceControl\Public\ISourceControlProvider.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Developer\SourceControl\Public\ISourceControlOperation.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\UnrealEd\FileHelpers.generated.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Developer\AssetTools\Public\AssetToolsModule.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Developer\AssetTools\Public\IAssetTools.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Editor\UnrealEd\Public\AutomatedAssetImportData.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\UnrealEd\AutomatedAssetImportData.generated.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\AssetTools\IAssetTools.generated.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Engine\Classes\Engine/AssetManager.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Engine\Classes\Engine\AssetManagerTypes.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\AssetManagerTypes.generated.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Engine\Classes\Engine\StreamableManager.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Core\Public\GenericPlatform/GenericPlatformChunkInstall.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Engine\Classes\Engine\ContentEncryptionConfig.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\AssetManager.generated.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Core\Public\Misc/FileHelper.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Engine\Classes\Engine/AssetManagerSettings.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\DeveloperSettings\Public\Engine/DeveloperSettings.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\DeveloperSettings\DeveloperSettings.generated.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\AssetManagerSettings.generated.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Engine\Classes\Engine/MapBuildDataRegistry.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Engine\Public\LightMap.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Engine\Classes\Engine/LightMapTexture2D.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\LightMapTexture2D.generated.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Engine\Classes\Engine/TextureCube.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\TextureCube.generated.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\MapBuildDataRegistry.generated.h
+C:/Users/Carlo/Documents/Unreal Projects/MyProject/Plugins/ProjectCleaner426/ProjectCleaner426/Source/ProjectCleaner/Private/ProjectCleaner.cpp
+C:\Users\Carlo\Documents\Unreal Projects\MyProject\Plugins\ProjectCleaner426\ProjectCleaner426\Source\ProjectCleaner\Public\UI/ProjectCleanerStyle.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\SlateCore\Public\Styling/SlateStyle.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\SlateCore\Public\Brushes/SlateBorderBrush.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\SlateCore\Public\Brushes/SlateBoxBrush.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\SlateCore\Public\Brushes/SlateColorBrush.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\SlateCore\Public\Brushes/SlateImageBrush.h
+C:\Users\Carlo\Documents\Unreal Projects\MyProject\Plugins\ProjectCleaner426\ProjectCleaner426\Source\ProjectCleaner\Public\UI/ProjectCleanerCommands.h
+C:\Users\Carlo\Documents\Unreal Projects\MyProject\Plugins\ProjectCleaner426\ProjectCleaner426\Source\ProjectCleaner\Public\UI/ProjectCleanerMainUI.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Developer\ToolMenus\Public\ToolMenus.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Developer\ToolMenus\Public\IToolMenusModule.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Developer\ToolMenus\Public\ToolMenu.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Developer\ToolMenus\Public\ToolMenuOwner.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\ToolMenus\ToolMenuOwner.generated.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Developer\ToolMenus\Public\ToolMenuDelegates.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Developer\ToolMenus\Public\ToolMenuMisc.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\ToolMenus\ToolMenuMisc.generated.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\ToolMenus\ToolMenuDelegates.generated.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Developer\ToolMenus\Public\ToolMenuSection.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Developer\ToolMenus\Public\ToolMenuEntry.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\ToolMenus\ToolMenuEntry.generated.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\ToolMenus\ToolMenuSection.generated.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Slate\Public\Framework/MultiBox/ToolMenuBase.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Core\Public\Misc/BlacklistNames.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Slate\ToolMenuBase.generated.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\ToolMenus\ToolMenu.generated.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Developer\ToolMenus\Public\ToolMenuEntryScript.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\ToolMenus\ToolMenuEntryScript.generated.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\ToolMenus\ToolMenus.generated.h
+C:/Users/Carlo/Documents/Unreal Projects/MyProject/Plugins/ProjectCleaner426/ProjectCleaner426/Source/ProjectCleaner/Private/Tests/ProjectCleanerEmptyFoldersTests.cpp
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Core\Public\Misc/AutomationTest.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Core\Public\HAL/PlatformStackWalk.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Core\Public\Windows/WindowsPlatformStackWalk.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Core\Public\GenericPlatform/GenericPlatformStackWalk.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Core\Public\Misc/FeedbackContext.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Core\Public\Misc/SlowTaskStack.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Core\Public\Async/Async.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Core\Public\Internationalization/Regex.h
+C:/Users/Carlo/Documents/Unreal Projects/MyProject/Plugins/ProjectCleaner426/ProjectCleaner426/Source/ProjectCleaner/Private/Tests/ProjectCleanerInvalidAssetsTests.cpp
+C:/Users/Carlo/Documents/Unreal Projects/MyProject/Plugins/ProjectCleaner426/ProjectCleaner426/Source/ProjectCleaner/Private/Tests/ProjectCleanerPathsTests.cpp
+C:/Users/Carlo/Documents/Unreal Projects/MyProject/Plugins/ProjectCleaner426/ProjectCleaner426/Source/ProjectCleaner/Private/Tests/ProjectCleanerRelationalMapTests.cpp
+C:/Users/Carlo/Documents/Unreal Projects/MyProject/Plugins/ProjectCleaner426/ProjectCleaner426/Source/ProjectCleaner/Private/Tests/ProjectCleanerUnusedAssetsTests.cpp
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Editor\UnrealEd\Classes\Factories/MaterialFactoryNew.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\UnrealEd\MaterialFactoryNew.generated.h
+C:/Users/Carlo/Documents/Unreal Projects/MyProject/Plugins/ProjectCleaner426/ProjectCleaner426/Source/ProjectCleaner/Private/UI/ProjectCleanerBrowserStatisticsUI.cpp
+C:\Users\Carlo\Documents\Unreal Projects\MyProject\Plugins\ProjectCleaner426\ProjectCleaner426\Source\ProjectCleaner\Public\UI/ProjectCleanerBrowserStatisticsUI.h
+C:/Users/Carlo/Documents/Unreal Projects/MyProject/Plugins/ProjectCleaner426/ProjectCleaner426/Source/ProjectCleaner/Private/UI/ProjectCleanerCommands.cpp
+C:/Users/Carlo/Documents/Unreal Projects/MyProject/Plugins/ProjectCleaner426/ProjectCleaner426/Source/ProjectCleaner/Private/UI/ProjectCleanerConfigsUI.cpp
+C:\Users\Carlo\Documents\Unreal Projects\MyProject\Plugins\ProjectCleaner426\ProjectCleaner426\Source\ProjectCleaner\Public\UI/ProjectCleanerConfigsUI.h
+C:/Users/Carlo/Documents/Unreal Projects/MyProject/Plugins/ProjectCleaner426/ProjectCleaner426/Source/ProjectCleaner/Private/UI/ProjectCleanerCorruptedFilesUI.cpp
+C:\Users\Carlo\Documents\Unreal Projects\MyProject\Plugins\ProjectCleaner426\ProjectCleaner426\Source\ProjectCleaner\Public\UI/ProjectCleanerCorruptedFilesUI.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Slate\Public\Widgets/Layout/SScrollBox.h
+C:/Users/Carlo/Documents/Unreal Projects/MyProject/Plugins/ProjectCleaner426/ProjectCleaner426/Source/ProjectCleaner/Private/UI/ProjectCleanerExcludedAssetsUI.cpp
+C:\Users\Carlo\Documents\Unreal Projects\MyProject\Plugins\ProjectCleaner426\ProjectCleaner426\Source\ProjectCleaner\Public\UI/ProjectCleanerExcludedAssetsUI.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Editor\UnrealEd\Public\Toolkits/GlobalEditorCommonCommands.h
+C:/Users/Carlo/Documents/Unreal Projects/MyProject/Plugins/ProjectCleaner426/ProjectCleaner426/Source/ProjectCleaner/Private/UI/ProjectCleanerExcludeOptionsUI.cpp
+C:\Users\Carlo\Documents\Unreal Projects\MyProject\Plugins\ProjectCleaner426\ProjectCleaner426\Source\ProjectCleaner\Public\UI/ProjectCleanerExcludeOptionsUI.h
+C:/Users/Carlo/Documents/Unreal Projects/MyProject/Plugins/ProjectCleaner426/ProjectCleaner426/Source/ProjectCleaner/Private/UI/ProjectCleanerIndirectAssetsUI.cpp
+C:\Users\Carlo\Documents\Unreal Projects\MyProject\Plugins\ProjectCleaner426\ProjectCleaner426\Source\ProjectCleaner\Public\UI/ProjectCleanerIndirectAssetsUI.h
+C:/Users/Carlo/Documents/Unreal Projects/MyProject/Plugins/ProjectCleaner426/ProjectCleaner426/Source/ProjectCleaner/Private/UI/ProjectCleanerMainUI.cpp
+C:\Users\Carlo\Documents\Unreal Projects\MyProject\Plugins\ProjectCleaner426\ProjectCleaner426\Source\ProjectCleaner\Public\UI/ProjectCleanerUnusedAssetsBrowserUI.h
+C:\Users\Carlo\Documents\Unreal Projects\MyProject\Plugins\ProjectCleaner426\ProjectCleaner426\Source\ProjectCleaner\Public\UI/ProjectCleanerNonEngineFilesUI.h
+C:/Users/Carlo/Documents/Unreal Projects/MyProject/Plugins/ProjectCleaner426/ProjectCleaner426/Source/ProjectCleaner/Private/UI/ProjectCleanerNonEngineFilesUI.cpp
+C:/Users/Carlo/Documents/Unreal Projects/MyProject/Plugins/ProjectCleaner426/ProjectCleaner426/Source/ProjectCleaner/Private/UI/ProjectCleanerNotificationManager.cpp
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Slate\Public\Framework/Notifications/NotificationManager.h
+C:/Users/Carlo/Documents/Unreal Projects/MyProject/Plugins/ProjectCleaner426/ProjectCleaner426/Source/ProjectCleaner/Private/UI/ProjectCleanerStyle.cpp
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\SlateCore\Public\Styling/SlateStyleRegistry.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Engine\Public\Slate/SlateGameResources.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Projects\Public\Interfaces/IPluginManager.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Projects\Public\PluginDescriptor.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Projects\Public\ModuleDescriptor.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Json\Public\Serialization/JsonWriter.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Json\Public\Serialization/JsonTypes.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Projects\Public\CustomBuildSteps.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Projects\Public\LocalizationDescriptor.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Projects\Public\PluginReferenceDescriptor.h
+C:/Users/Carlo/Documents/Unreal Projects/MyProject/Plugins/ProjectCleaner426/ProjectCleaner426/Source/ProjectCleaner/Private/UI/ProjectCleanerUnusedAssetsBrowserUI.cpp

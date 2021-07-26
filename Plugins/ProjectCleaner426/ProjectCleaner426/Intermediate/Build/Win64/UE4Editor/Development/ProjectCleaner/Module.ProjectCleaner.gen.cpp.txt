@@ -1,0 +1,7 @@
+C:\Users\Carlo\Documents\Unreal Projects\MyProject\Plugins\ProjectCleaner426\ProjectCleaner426\Intermediate\Build\Win64\UE4Editor\Development\ProjectCleaner\Definitions.ProjectCleaner.h
+C:/Users/Carlo/Documents/Unreal Projects/MyProject/Plugins/ProjectCleaner426/ProjectCleaner426/Intermediate/Build/Win64/UE4Editor/Inc/ProjectCleaner/ProjectCleaner.init.gen.cpp
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
+C:/Users/Carlo/Documents/Unreal Projects/MyProject/Plugins/ProjectCleaner426/ProjectCleaner426/Intermediate/Build/Win64/UE4Editor/Inc/ProjectCleaner/StructsContainer.gen.cpp
+C:\Users\Carlo\Documents\Unreal Projects\MyProject\Plugins\ProjectCleaner426\ProjectCleaner426\Source\ProjectCleaner/Public/StructsContainer.h
+C:\Users\Carlo\Documents\Unreal Projects\MyProject\Plugins\ProjectCleaner426\ProjectCleaner426\Intermediate\Build\Win64\UE4Editor\Inc\ProjectCleaner\StructsContainer.generated.h

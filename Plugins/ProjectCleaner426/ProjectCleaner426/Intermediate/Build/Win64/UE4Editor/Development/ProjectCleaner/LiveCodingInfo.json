@@ -1,0 +1,31 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.ProjectCleaner.cpp.obj": [
+			"ProjectCleanerManager.cpp.obj",
+			"ProjectCleanerUtility.cpp.obj",
+			"ProjectCleaner.cpp.obj",
+			"ProjectCleanerEmptyFoldersTests.cpp.obj",
+			"ProjectCleanerInvalidAssetsTests.cpp.obj",
+			"ProjectCleanerPathsTests.cpp.obj",
+			"ProjectCleanerRelationalMapTests.cpp.obj",
+			"ProjectCleanerUnusedAssetsTests.cpp.obj",
+			"ProjectCleanerBrowserStatisticsUI.cpp.obj",
+			"ProjectCleanerCommands.cpp.obj",
+			"ProjectCleanerConfigsUI.cpp.obj",
+			"ProjectCleanerCorruptedFilesUI.cpp.obj",
+			"ProjectCleanerExcludedAssetsUI.cpp.obj",
+			"ProjectCleanerExcludeOptionsUI.cpp.obj",
+			"ProjectCleanerIndirectAssetsUI.cpp.obj",
+			"ProjectCleanerMainUI.cpp.obj",
+			"ProjectCleanerNonEngineFilesUI.cpp.obj",
+			"ProjectCleanerNotificationManager.cpp.obj",
+			"ProjectCleanerStyle.cpp.obj",
+			"ProjectCleanerUnusedAssetsBrowserUI.cpp.obj"
+		],
+		"Module.ProjectCleaner.gen.cpp.obj": [
+			"ProjectCleaner.init.gen.cpp.obj",
+			"StructsContainer.gen.cpp.obj"
+		]
+	}
+}
